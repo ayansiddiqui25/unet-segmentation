@@ -16,10 +16,10 @@ This project trains a U-Net model to perform pixel-level classification on urban
 | Dataset | Cityscapes (2975 train / 500 val) |
 
 ### Training Curves
-![Training Metrics](outputs/training_metrics.png)
+![Training Metrics](training_metrics.png)
 
 ### Prediction Example
-![Prediction](outputs/prediction.png)
+![Prediction](prediction.png)
 
 ## Architecture — U-Net
 

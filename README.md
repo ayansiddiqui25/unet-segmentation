@@ -42,4 +42,3 @@ Skip connections pass spatial detail from the encoder directly to the decoder so
 3. **Evaluation** — Validation loss + mean IoU (mIoU) tracked per epoch
 4. **Inference** — trained model predicts segmentation mask on new images
 
-## Project Structure
